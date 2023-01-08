@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jan Parayno
 ===================================================================================================================================
 
-~Aspiring Software Developer~
+**Aspiring Software Developer**
 -----------------------------
 
 I am a Computer Science student who loves to learn and dive deeper into new knowledge! Currently, I am learning github repository, web development, software development, blockchain development, and data structure algorithms. Tech aside, I am a pet lover and into Fishkeeping. I hope to meet amazing new people and learn with them, so feel free to connect with me!
